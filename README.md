@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm jiramet!
+# 👋 Hi there, I'm Jiramet!
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedinusername/)](https://www.linkedin.com/in/yourlinkedinusername/)
