@@ -1,13 +1,13 @@
 # 👋 Hi there, I'm Jiramet!
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedinusername/)](https://www.linkedin.com/in/yourlinkedinusername/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedinusername/)]([https://www.linkedin.com/in/yourlinkedinusername/](https://www.linkedin.com/in/jiramet-wattanaphaiboon-32a146325/))
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **[your project name or area of focus]**
-- 🌱 I’m learning **[languages, tools, or frameworks you’re learning]**
+- 🔭 I’m currently studying at **Kasetsart University**
+- 🌱 I’m learning **Data science courses**
 - 💬 Ask me about **[topics you're knowledgeable about]**
-- 📫 How to reach me: [your email or preferred contact method]
+- 📫 How to reach me: ****
 - 😄 Pronouns: [He/Him]
 - ⚡ Fun fact: [a fun fact about you]
 
