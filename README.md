@@ -1,15 +1,16 @@
 # 👋 Hi there, I'm Jiramet!
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedinusername/)]([https://www.linkedin.com/in/yourlinkedinusername/](https://www.linkedin.com/in/jiramet-wattanaphaiboon-32a146325/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedinusername/)](https://www.linkedin.com/in/jiramet-wattanaphaiboon-32a146325/)
 
 ## 🚀 About Me
-- 🔭 I’m currently studying at **Kasetsart University**
-- 🌱 I’m learning **Data science courses**
-- 💬 Ask me about **[topics you're knowledgeable about]**
-- 📫 How to reach me: ****
-- 😄 Pronouns: [He/Him]
-- ⚡ Fun fact: [a fun fact about you]
+
+- 🔭 I’m currently studying at **Kasetsart University**, majoring in **Computer Engineering**.
+- 🌱 I’m learning **Data Science** and exploring its applications.
+- 💬 Ask me about **Computer Engineering, Data Science, or Chess**.
+- 📫 How to reach me: **[Instagram](https://www.instagram.com/jiramet_toon)**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: I love chess, but I’ve never reached a 1500 Elo rating. 😅
 
 ---
 
@@ -34,6 +35,6 @@
 ---
 
 ## 🤝 Let's Connect!
-- LinkedIn: soon
+- LinkedIn: [Jiramet Wattanaphaiboon](https://www.linkedin.com/in/jiramet-wattanaphaiboon-32a146325/)
 - Instagram: [jiramet_toon](https://www.instagram.com/jiramet_toon/)
 - Email: [My Email](sendtocartoon@gmail.com)
