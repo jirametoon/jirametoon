@@ -23,7 +23,7 @@
 ---
 
 ## 🔗 Links
-- Portfolio: [Download My Portfolio](resume.pdf)
+- Portfolio: [Download My Resume](resume.pdf)
 
 ---
 
