@@ -8,7 +8,7 @@
 - 🔭 I’m currently studying at **Kasetsart University**, majoring in **Computer Engineering**.
 - 🌱 I’m learning **Data Science** and exploring its applications.
 - 💬 Ask me about **Computer Engineering, Data Science, or Chess**.
-- 📫 How to reach me: **[Instagram](https://www.instagram.com/jiramet_toon)**
+- 📫 How to reach me: **[jiramet_toon](https://www.instagram.com/jiramet_toon)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love chess, but I’ve never reached a 1500 Elo rating. 😅
 
@@ -23,7 +23,7 @@
 ---
 
 ## 🔗 Links
-- Portfolio: soon
+- Portfolio: [Download My Portfolio](portfolio.pdf)
 
 ---
 
