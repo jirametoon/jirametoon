@@ -23,7 +23,7 @@
 ---
 
 ## 🔗 Links
-- Portfolio: [Download My Resume](resume.pdf)
+- Portfolio: [Download My Resume](resume_AI_engineer.pdf)
 
 ---
 
